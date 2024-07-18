@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Sunil Seervi</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilseervi6&label=Profile%20views&color=0e75b6&style=flat" alt="sunilseervi6" /> </p>
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilseervi6&show_icons=true&locale=en" alt="sunilseervi6" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilseervi6&" alt="sunilseervi6" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilseervi6&theme=default" alt="sunilseervi6" /></p>
